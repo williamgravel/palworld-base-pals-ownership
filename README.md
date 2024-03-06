@@ -1,4 +1,4 @@
-# palworld-base-pals-ownership
+# Palworld Base Pals Ownership Viewer
 Tool for retrieving player ownership of guild base pals from Palworld save file.
 
 This tool will print out the pal information (name, nickname, gender, level, max health, and boss/lucky status) of all guild base pals (or of a single guild if specified) as grouped by guild, base, and player. This tool is also capable of saving the pal ownership data to a JSON file if requested.
